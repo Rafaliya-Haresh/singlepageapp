@@ -1,4 +1,4 @@
-# singlepageapp
+# singlepageapp (Vuejs)
 
 ## Project setup
 ```
